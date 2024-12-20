@@ -1,6 +1,6 @@
 # Script PowerShell pour Modifier les Champs d'un PDF
 
-Ce script PowerShell permet de modifier les champs d'un formulaire PDF en utilisant la bibliothèque `iTextSharp`. Il peut également aplatir le PDF pour rendre les champs non modifiables.
+Ce script PowerShell permet de modifier les champs d'un formulaire PDF en utilisant la bibliothèque `iTextSharp`. Il peut également "aplatir" le PDF pour rendre les champs non modifiables.
 
 ## Fonctionnalités
 
