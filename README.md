@@ -12,17 +12,15 @@ Ce script PowerShell permet de modifier les champs d'un formulaire PDF en utilis
 
 Avant d'utiliser ce script, assurez-vous d'avoir les éléments suivants :
 1. **PowerShell** (version 5.1 ou supérieure).
-2. **DLL iTextSharp** : Téléchargez `itextsharp.dll` (compatible avec votre version .NET).
+2. **DLL iTextSharp** (présente dans le repo)
 3. Un fichier PDF d'entrée avec des champs de formulaire modifiables.
 
 ## Installation
 
 1. Téléchargez ou clonez ce repository sur votre machine.
-2. Débloquez la DLL si nécessaire avec la commande suivante :
-   ```powershell
-   Unblock-File -Path .\itextsharp.dll
-3. Choisissez le PDF avec champs nommés à modifier
-    
+2. Choisissez le PDF avec champs nommés à modifier
+3. Exécutez le script avec les paramètres requis
+   
 ## Utilisation 
 
 Exemple de commande : 
